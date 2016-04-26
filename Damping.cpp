@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	double A1,A2,damping,lA;
+	long double A1,A2,damping,lA;
 	cout<<"Enter the amplitudes A1 and A2"<<endl;
 	cin>>A1>>A2;
 	lA=log(A1/A2);
